@@ -1,5 +1,9 @@
 # %%
+!pip install pandas --upgrade
+# !pip show pandas
+
 import pandas as pd
+# print(pd.__version__) # NOT WORKING
 import numpy as np
 import matplotlib.pyplot as plt
 import graphviz 
