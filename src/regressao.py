@@ -1,5 +1,5 @@
 # %%
-!pip install pandas --upgrade
+# !pip install pandas --upgrade
 # !pip show pandas
 
 import pandas as pd
